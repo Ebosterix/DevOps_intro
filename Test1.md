@@ -25,7 +25,6 @@ git checkout -b feature/dev1
   207  clear
 
   208  git checkout main
-
   209  git add .
 
   210  git commit -m "2nd commit in main"
